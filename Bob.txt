@@ -1,3 +1,7 @@
-Olá, Alice! Eu sou o Bob, e já to aqui faz tempo.
+<<<<<<< HEAD
+Olá, Alice! Eu sou o Bobby. Estou aqui faz um tempo.
+=======
+Olá, Alic, eu sou o Bobby. Sou novo por aqui.
+>>>>>>> branch_do_bobby
 -Legal, eu também
 
