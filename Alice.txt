@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
-Gostaria de saber quais caminhos posso seguir além de morrer presa aqui
+Gostaria de saber quais caminhos posso seguir além de morrer presa aqui. Estou editando por editar
+=======
+Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo. Estou editando por editar
+>>>>>>> b371d6dda95641fbf6670c8f835ceb41a4e0cdb5
